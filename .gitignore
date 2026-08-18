@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+.vscode/
+.DS_Store
+docs/ARCHITECTURE.md
+docs/BLOG.md
+docs/PROJECT_SUMMARY.md
+docs/PROJECT_DOCUMENT.md
